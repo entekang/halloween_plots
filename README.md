@@ -1,2 +1,2 @@
 # Halloween Plots
-![](images/table 1-1.png?raw=true)
+![](https://github.com/entekang/halloween_plots/blob/main/Halloween_horror_movies.png)
